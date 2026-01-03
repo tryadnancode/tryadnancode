@@ -1,34 +1,63 @@
-# Hi, I'm Adnan Ansari 👋  
+# Adnan Ansari 👋  
 ### Flutter & Mobile Application Developer
 
 📍 Delhi, India  
-📱 Flutter | Android | API Integration | Mobile UI/UX  
+📱 Flutter (Dart) | Android (Java) | API-Driven Mobile Apps  
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-I am a Mobile Application Developer with hands-on experience in building
-production-ready applications using **Flutter (Dart)** and **Android (Java)**.
-I have worked on real-world applications that are published on both
-**Google Play Store** and **Apple App Store**, with a strong focus on
-UI/UX, performance, and scalable architecture.
+I am a Mobile Application Developer with **2 years of professional experience**
+in **Flutter (Dart)** and prior experience in **Android development (Java)**.
+I have worked extensively on **real, production-level mobile applications**
+that are live on both **Google Play Store** and **Apple App Store**.
 
-I am currently enhancing my expertise in **state management (BLoC, GetX)**,
-**API integration (REST & GraphQL)**, and **offline database handling**
-to build robust and maintainable mobile applications.
+I specialize in building **scalable, maintainable, and performance-oriented**
+mobile applications using **clean architecture**, **state management
+(BLoC, GetX)**, and **REST / GraphQL API integration**.
+My experience includes handling real-user scenarios, production bugs,
+API failures, and cross-platform UI behavior.
+
+---
+
+## 📊 Experience Overview
+
+- ✅ **20+ mobile projects delivered**
+- ✅ **15+ Flutter projects**
+- ✅ **4 Flutter apps live on Google Play Store**
+- ✅ **3 Flutter apps live on Apple App Store**
+- ✅ **5 Android (Java) applications**
 
 ---
 
 ## 🧠 Technical Skills
 
-- **Mobile Development:** Flutter, Dart, Android (Java)
-- **State Management:** BLoC, GetX
-- **API Integration:** REST APIs, GraphQL
-- **Databases:** Room Database, Offline Storage
-- **Backend Exposure:** API-driven architecture, authentication flows
-- **Tools:** Android Studio, Git, GitHub
-- **Other:** Firebase, HTML, CSS
+**Mobile Development**
+- Flutter, Dart
+- Android (Java), XML
+
+**State Management**
+- BLoC
+- GetX
+
+**Backend & APIs**
+- REST APIs
+- GraphQL APIs
+- Authentication & Authorization flows
+- CRUD-based modules
+
+**Databases**
+- Room Database
+- Offline storage handling
+
+**Tools & Platforms**
+- Android Studio
+- Git & GitHub
+- Firebase
+
+**Web Basics**
+- HTML, CSS
 
 ---
 
@@ -37,20 +66,24 @@ to build robust and maintainable mobile applications.
 ### 🚀 Flutter Developer  
 **Webkul** | *Jan 2025 – Sep 2025*
 
-- Developed Flutter applications with a strong focus on clean UI/UX
-- Implemented scalable state management using **BLoC & GetX**
-- Integrated REST and GraphQL APIs for dynamic app functionality
-- Worked on production-level mobile applications with real users
+- Developed production-ready Flutter applications with strong UI/UX focus
+- Worked on **Magento 2-based mobile applications**
+- Integrated **REST & GraphQL APIs** for dynamic data handling
+- Implemented **BLoC & GetX** for scalable state management
+- Built complete e-commerce mobile applications
+- Contributed to apps deployed on **Google Play Store** and **Apple App Store**
+- Focused on performance optimization, clean architecture, and maintainability
 
 ---
 
 ### 📱 Mobile Application Developer  
 **Roundpay Voice Tech** | *Jan 2024 – Dec 2024*
 
-- Built Android applications using **Java**, XML, and **Room Database**
-- Integrated APIs to support real-time and data-driven features
-- Transitioned into Flutter development for cross-platform solutions
-- Worked on offline database handling and scalable app architecture
+- Developed Android applications using **Java, XML, and Room Database**
+- Integrated APIs for real-time and data-driven features
+- Worked on authentication, form validation, and structured UI flows
+- Transitioned into Flutter for cross-platform development
+- Gained experience in offline database handling and production scenarios
 
 ---
 
@@ -58,68 +91,77 @@ to build robust and maintainable mobile applications.
 **APTRON** | *Jul 2022 – Aug 2022*
 
 - Completed internship in **Core & Advanced Java**
-- Gained foundational knowledge of web technologies:
-  HTML, CSS, JavaScript, Bootstrap, and MySQL
-- Developed strong programming fundamentals and backend understanding
+- Worked with:
+  - Java
+  - HTML, CSS, JavaScript
+  - Bootstrap
+  - MySQL
+- Built strong programming fundamentals and backend understanding
 
 ---
 
-## 📱 Key Projects
+## 📱 Production Applications (Magento 2 – Flutter)
 
-### 🛍 Magento 2 Mobile Applications (Flutter)
-- Developed native Flutter-based mobile apps for **Magento 2**
-- Apps published on **Google Play Store** & **Apple App Store**
-- Projects include:
-  - **LeaderSport**
-  - **Itenis**
-  - **ShreeNM**
-- Features:
-  - GraphQL & REST API integration
-  - Admin-driven UI customization
-  - Advanced native device features
-  - End-to-end Flutter development
+Developed **fully native Flutter applications for Magento 2**, centrally
+managed through Magento Admin and deployed on both platforms.
+
+### 🔹 Live Applications
+- **LeaderSport**  
+  👉 Google Play Store: *(link available on request)*  
+  👉 Apple App Store: *(link available on request)*  
+
+- **Itenis**  
+  👉 Google Play Store: *(link available on request)*  
+  👉 Apple App Store: *(link available on request)*  
+
+- **ShreeNM**  
+  👉 Google Play Store: *(link available on request)*  
+  👉 Apple App Store: *(link available on request)*  
+
+> ℹ️ Direct store links are shared during interviews or on request.
 
 ---
+
+## 🧩 Other Key Projects
 
 ### 📝 Login & Notes App (Flutter)
-- Login and note-taking application built using Flutter & Dart
-- API-based CRUD operations
-- Clean UI and efficient data handling
+- Flutter & Dart based application
+- API-driven CRUD operations
+- Clean UI and efficient state handling
 
----
-
-### 🗒 Notes App with Room Database (Android)
-- Fully functional notes app using Room Database
-- Implemented complete CRUD operations
-- Used custom dialogs and clean architecture
-
----
+### 🗒 Notes App (Android – Room Database)
+- Full CRUD operations using Room Database
+- Custom dialogs and structured architecture
 
 ### 🔐 Login & Signup App (Android)
-- Secure authentication system using Java
-- Form validation and structured UI design
-
----
+- Secure authentication flow
+- Form validation and clean UI design
 
 ### 🛒 Flipkart Clone (Android)
-- Product listing using APIs
+- API-based product listing
 - Firebase Authentication:
-  - OTP verification
-  - Google Sign-in
-
----
+  - OTP login
+  - Google Sign-In
 
 ### 💰 Currency Total Calculator (Flutter)
-- Flutter app for calculating currency denominations
-- Clean UI and simple user experience
+- Flutter application for calculating currency denominations
+- Clean and user-friendly interface
 
 ---
 
-## 🏆 Achievements
+## 🎓 Education
 
-- Completed **TCS iON Career Edge – Young Professionals**
-- Won **First Prize** in college fest for building a **Light Follower Car**
-- Certified in **Core & Advanced Java** (APTRON)
+**Bachelor of Technology (Computer Science & Engineering)**  
+Babu Banarasi Das University  
+🎓 *First Division – 2023*
+
+---
+
+## 🏆 Achievements & Certifications
+
+- ✅ **TCS iON Career Edge – Young Professionals**
+- 🏆 **First Prize** – College Fest (Light Follower Car Project)
+- 📜 **Core & Advanced Java Certification** – APTRON
 
 ---
 
@@ -131,5 +173,6 @@ to build robust and maintainable mobile applications.
 
 ---
 
-⭐ *I believe in writing clean, maintainable code and continuously improving
-my skills through real-world projects and hands-on learning.*
+⭐ *I am looking for opportunities where I can contribute immediately to
+product development while continuing to grow as a Flutter developer
+in a professional, engineering-driven environment.*
