@@ -168,7 +168,6 @@ Babu Banarasi Das University
 ## 📫 Contact
 
 - 📧 Email: **adnan2003ansari@gmail.com**
-- 📱 Phone: **+91 8756429832**
 - 🔗 GitHub: https://github.com/tryadnancode
 
 ---
