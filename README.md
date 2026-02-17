@@ -1,177 +1,144 @@
-# Adnan Ansari 👋  
+# Hi, I'm Adnan Ansari 👋
+
 ### Flutter & Mobile Application Developer
 
-📍 Delhi, India  
-📱 Flutter (Dart) | Android (Java) | API-Driven Mobile Apps  
+I build real-world mobile applications using Flutter.
+I work on production apps, legacy code fixes, performance debugging, and full system development from scratch.
+
+Currently developing an AI based HRMS Attendance application with face detection and camera processing.
+
+📍 Delhi, India
+📧 adnan2003ansari@gmail.com
 
 ---
 
-## 👨‍💻 Professional Summary
+## 🚀 What I Do
 
-I am a Mobile Application Developer with **2 years of professional experience**
-in **Flutter (Dart)** and prior experience in **Android development (Java)**.
-I have worked extensively on **real, production-level mobile applications**
-that are live on both **Google Play Store** and **Apple App Store**.
-
-I specialize in building **scalable, maintainable, and performance-oriented**
-mobile applications using **clean architecture**, **state management
-(BLoC, GetX)**, and **REST / GraphQL API integration**.
-My experience includes handling real-user scenarios, production bugs,
-API failures, and cross-platform UI behavior.
+* Cross-platform mobile app development (Flutter)
+* Debugging and stabilizing existing production applications
+* Publishing apps on Google Play Store & Apple App Store
+* REST & GraphQL API integration
+* State management (BLoC, GetX)
+* Camera, ML Kit & real-time attendance systems
+* Authentication & secure login flows
 
 ---
 
-## 📊 Experience Overview
+## 🧠 Tech Stack
 
-- ✅ **20+ mobile projects delivered**
-- ✅ **15+ Flutter projects**
-- ✅ **4 Flutter apps live on Google Play Store**
-- ✅ **3 Flutter apps live on Apple App Store**
-- ✅ **5 Android (Java) applications**
+**Languages**
 
----
+* Dart
+* Java
 
-## 🧠 Technical Skills
+**Frameworks**
 
-**Mobile Development**
-- Flutter, Dart
-- Android (Java), XML
+* Flutter
+* Android SDK
 
 **State Management**
-- BLoC
-- GetX
 
-**Backend & APIs**
-- REST APIs
-- GraphQL APIs
-- Authentication & Authorization flows
-- CRUD-based modules
+* BLoC
+* GetX
 
-**Databases**
-- Room Database
-- Offline storage handling
+**Backend Integration**
 
-**Tools & Platforms**
-- Android Studio
-- Git & GitHub
-- Firebase
+* REST APIs
+* GraphQL
 
-**Web Basics**
-- HTML, CSS
+**Tools & Services**
+
+* Firebase
+* Google ML Kit (Face Detection)
+* Git & GitHub
+* Android Studio
+* Play Store & App Store deployment
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### 🚀 Flutter Developer  
-**Webkul** | *Jan 2025 – Sep 2025*
+### Flutter Developer — Fraxxra Tech (Nov 2025 – Present)
 
-- Developed production-ready Flutter applications with strong UI/UX focus
-- Worked on **Magento 2-based mobile applications**
-- Integrated **REST & GraphQL APIs** for dynamic data handling
-- Implemented **BLoC & GetX** for scalable state management
-- Built complete e-commerce mobile applications
-- Contributed to apps deployed on **Google Play Store** and **Apple App Store**
-- Focused on performance optimization, clean architecture, and maintainability
+**MyDiaree**
 
----
+* Maintained and upgraded legacy mobile application
+* Fixed production crashes
+* Updated deprecated Flutter dependencies
+* Resolved Android & iOS build issues
+* Published app on Play Store and App Store
+* Improved performance and stability
 
-### 📱 Mobile Application Developer  
-**Roundpay Voice Tech** | *Jan 2024 – Dec 2024*
+**Chrispp (AI Attendance HRMS)**
 
-- Developed Android applications using **Java, XML, and Room Database**
-- Integrated APIs for real-time and data-driven features
-- Worked on authentication, form validation, and structured UI flows
-- Transitioned into Flutter for cross-platform development
-- Gained experience in offline database handling and production scenarios
+* Built employee attendance system from scratch
+* Implemented camera capture and face detection
+* Designed application architecture
+* Implemented check-in / check-out system
+* Integrated APIs and authentication
+* Solved device-specific camera issues
 
 ---
 
-### 🎓 Java Intern  
-**APTRON** | *Jul 2022 – Aug 2022*
+### Flutter Developer — Webkul (Jan 2025 – Sep 2025)
 
-- Completed internship in **Core & Advanced Java**
-- Worked with:
-  - Java
-  - HTML, CSS, JavaScript
-  - Bootstrap
-  - MySQL
-- Built strong programming fundamentals and backend understanding
+* Developed Magento 2 mobile apps
+* Implemented BLoC & GetX
+* REST & GraphQL API integration
+* Built cart, checkout and order modules
+* Worked on deployed production apps
 
 ---
 
-## 📱 Production Applications (Magento 2 – Flutter)
+### Android Developer — Roundpay Voice Tech (Jan 2024 – Dec 2024)
 
-Developed **fully native Flutter applications for Magento 2**, centrally
-managed through Magento Admin and deployed on both platforms.
-
-### 🔹 Live Applications
-- **LeaderSport**  
-  👉 Google Play Store: *(link available on request)*  
-  👉 Apple App Store: *(link available on request)*  
-
-- **Itenis**  
-  👉 Google Play Store: *(link available on request)*  
-  👉 Apple App Store: *(link available on request)*  
-
-- **ShreeNM**  
-  👉 Google Play Store: *(link available on request)*  
-  👉 Apple App Store: *(link available on request)*  
-
-> ℹ️ Direct store links are shared during interviews or on request.
+* Native Android development using Java & XML
+* Room Database offline storage
+* Authentication and form validation
+* API-based applications
 
 ---
 
-## 🧩 Other Key Projects
+## 📱 Production Work
 
-### 📝 Login & Notes App (Flutter)
-- Flutter & Dart based application
-- API-driven CRUD operations
-- Clean UI and efficient state handling
+**MyDiaree**
 
-### 🗒 Notes App (Android – Room Database)
-- Full CRUD operations using Room Database
-- Custom dialogs and structured architecture
+* Legacy app stabilization
+* Published on Play Store & App Store
 
-### 🔐 Login & Signup App (Android)
-- Secure authentication flow
-- Form validation and clean UI design
+**Magento Flutter Applications**
 
-### 🛒 Flipkart Clone (Android)
-- API-based product listing
-- Firebase Authentication:
-  - OTP login
-  - Google Sign-In
+* LeaderSport
+* Itenis
+* ShreeNM
 
-### 💰 Currency Total Calculator (Flutter)
-- Flutter application for calculating currency denominations
-- Clean and user-friendly interface
+**Chrispp HRMS**
+
+* AI attendance
+* Face detection
+* Employee management
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology (Computer Science & Engineering)**  
-Babu Banarasi Das University  
-🎓 *First Division – 2023*
+B.Tech — Computer Science & Engineering
+Babu Banarasi Das University (2023)
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Certifications
 
-- ✅ **TCS iON Career Edge – Young Professionals**
-- 🏆 **First Prize** – College Fest (Light Follower Car Project)
-- 📜 **Core & Advanced Java Certification** – APTRON
-
----
-
-## 📫 Contact
-
-- 📧 Email: **adnan2003ansari@gmail.com**
-- 🔗 GitHub: https://github.com/tryadnancode
+* TCS iON Career Edge – Young Professionals
+* Core & Advanced Java Certification (APTRON)
 
 ---
 
-⭐ *I am looking for opportunities where I can contribute immediately to
-product development while continuing to grow as a Flutter developer
-in a professional, engineering-driven environment.*
+## 📫 Connect With Me
+
+GitHub: https://github.com/tryadnancode
+Email: adnan2003ansari@gmail.com
+
+---
+
+⭐ I enjoy solving real production problems, debugging difficult issues, and building stable applications that users depend on daily.
